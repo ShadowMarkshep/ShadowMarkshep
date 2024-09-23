@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShadowMarkshep
+- 👋 Hi, I’m Markshep
 - 👀 I’m interested in Minecraft mods and plugins
 - 🌱 I’m currently learning Java
 - 📫 How to reach me TG [@m_shadowless](https://t.me/m_shadowless)
