@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, Python and JS**
 
-- 👨‍💻 All of my projects are available at [dev.markshep.ru](dev.markshep.ru)
+- 👨‍💻 All of my projects are available at 
 
 - 📫 How to reach me **https://t.me/m_shadowless**
 
