@@ -1,7 +1,3 @@
-```txt
-===[ Neon Workbench ]===
-```
-
 # Hi, I'm MarkShep
 
 **Java developer** working across  
