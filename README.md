@@ -1,12 +1,5 @@
 # Hi, I'm MarkShep
 
-**Java developer** working across  
-- **Backend systems** (Spring Boot, REST, security)  
-- **Desktop tools** (JavaFX)  
-- **Game modding** (Minecraft)
-
----
-
 ## Tech Stack
 **Languages:** Java  
 **Backend:** Spring Boot, SQL  
