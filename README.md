@@ -3,17 +3,15 @@
 **Java developer** working across  
 - **Backend systems** (Spring Boot, REST, security)  
 - **Desktop tools** (JavaFX)  
-- **Game modding** (Fabric ecosystem)
-
-Focused on building structured, rational, and reliable systems — from server logic to user-side tools.
+- **Game modding** (Minecraft)
 
 ---
 
 ## Tech Stack
 **Languages:** Java  
-**Backend:** Spring Boot, REST APIs, JWT, SQL  
+**Backend:** Spring Boot, SQL  
 **Desktop:** JavaFX  
-**Game Modding:** Fabric / Minecraft modding  
+**Game Modding:** Fabric, Paper 
 **Other:** Git, Linux, Docker (basics)
 
 ---
@@ -28,5 +26,5 @@ Focused on building structured, rational, and reliable systems — from server l
 
 ## Contacts
 - Website: **https://markshep.ru**  
-- Telegram (main): **https://t.me/marksheptg**  
-- Telegram (dev/contact): **https://t.me/m_shadowless**
+- Telegram (channel): **https://t.me/marksheptg**  
+- Telegram (contact): **https://t.me/m_shadowless**
