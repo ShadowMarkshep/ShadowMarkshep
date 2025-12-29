@@ -12,4 +12,4 @@
 ## Contacts
 - Website: **https://markshep.ru**  
 - Telegram (channel): **https://t.me/marksheptg**  
-- Telegram (contact): **https://t.me/m_shadowless**
+- Telegram (dm): **https://t.me/m_shadowless**
