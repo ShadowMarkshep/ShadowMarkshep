@@ -1,10 +1,10 @@
 # Hi, I'm MarkShep
 
 ## Tech Stack
-**Languages:** Java  
+**Languages:** Java, Python
 **Backend:** Spring Boot, SQL  
 **Desktop:** JavaFX  
-**Game Modding:** Fabric, Paper 
+**Game Modding:** Fabric, Paper   
 **Other:** Linux (basics)
 
 ---
