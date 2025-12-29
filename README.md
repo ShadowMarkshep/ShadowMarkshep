@@ -5,7 +5,7 @@
 **Backend:** Spring Boot, SQL  
 **Desktop:** JavaFX  
 **Game Modding:** Fabric, Paper 
-**Other:** Git, Linux, Docker (basics)
+**Other:** Linux (basics)
 
 ---
 
