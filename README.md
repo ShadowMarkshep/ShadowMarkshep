@@ -7,7 +7,7 @@
 
 **Desktop:** JavaFX, LWJGL
 
-**Моддинг игр/ Game modding:** Fabric, Paper
+**Моддинг игр/Game modding:** Fabric, Paper
 
 **Другое/Other:** Linux, Git, OpenGL
 
