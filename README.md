@@ -1,15 +1,15 @@
-# Hi, I'm MarkShep
+# Жёсткий intern-разработчик на Java
 
-## Tech Stack
-**Languages:** Java, Python    
-**Backend:** Spring Boot, SQL  
-**Desktop:** JavaFX  
-**Game Modding:** Fabric, Paper   
-**Other:** Linux (basics)
+## 
+**ЯПы/Languages:** Java, Python, GLSL
+**Backend:** Spring Boot, SQL
+**Desktop:** JavaFX, LWJGL
+**Моддинг игр/ Game modding:** Fabric, Paper   
+**Другое/Other:** Linux, Git, OpenGL
 
 ---
 
 ## Contacts
-- Website: **https://markshep.ru**  
-- Telegram (channel): **https://t.me/marksheptg**  
-- Telegram (dm): **https://t.me/m_shadowless**
+- Вебсайт/Website: **https://markshep.ru**  
+- Telegram (канал/channel): **https://t.me/marksheptg**  
+- Telegram (лс/dm): **https://t.me/m_shadowless**
