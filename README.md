@@ -1,7 +1,7 @@
-# Жёсткий intern-разработчик на Java
+# Junior-разработчик из Воронежа
 
 ## 
-**ЯПы/Languages:** Java, Python, GLSL
+**ЯПы/Languages:** Java, Python, GLSL, TypeScript, Rust
 
 **Backend:** Spring Boot, SQL
 
