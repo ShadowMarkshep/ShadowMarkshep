@@ -5,11 +5,11 @@
 
 **Backend:** Spring Boot, SQL
 
-**Desktop:** JavaFX, LWJGL
+**Desktop:** JavaFX, JMonkeyEngine
 
 **Моддинг игр/Game modding:** Fabric, Paper
 
-**Другое/Other:** Linux, Git, OpenGL
+**Другое/Other:** Linux, Git
 
 ---
 
