@@ -1,7 +1,6 @@
 # Junior-разработчик из Воронежа
 
-## 
-**ЯПы/Languages:** Java, Python, GLSL, TypeScript, Rust
+**ЯПы/Languages:** Java, Python
 
 **Backend:** Spring Boot, SQL
 
@@ -10,6 +9,11 @@
 **Моддинг игр/Game modding:** Fabric, Paper
 
 **Другое/Other:** Linux, Git
+
+---
+
+## Сейчас изучаю:
+Go, Rust, TypeScript, GLSL
 
 ---
 
