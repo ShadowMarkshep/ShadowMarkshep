@@ -13,7 +13,7 @@
 ---
 
 ## Сейчас изучаю:
-Go, Rust, TypeScript, GLSL
+Rust, GLSL
 
 ---
 
