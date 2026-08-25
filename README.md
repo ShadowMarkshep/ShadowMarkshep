@@ -2,9 +2,9 @@
 
 **ЯПы/Languages:** Java, Python
 
-**Backend:** Spring Boot, SQL
+**Backend:** Spring Framework, SQL
 
-**Desktop:** JavaFX, JMonkeyEngine
+**Desktop:** JavaFX, SWT, JMonkeyEngine
 
 **Моддинг игр/Game modding:** Fabric, Paper
 
