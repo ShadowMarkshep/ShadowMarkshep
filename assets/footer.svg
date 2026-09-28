@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="56" viewBox="0 0 900 56">
+  <line x1="120" y1="28" x2="370" y2="28" stroke="#6d4bc4" stroke-opacity="0.6" stroke-width="1.5"/>
+  <line x1="530" y1="28" x2="780" y2="28" stroke="#6d4bc4" stroke-opacity="0.6" stroke-width="1.5"/>
+  <rect x="375" y="12" width="150" height="32" rx="16" fill="#0d0b14" stroke="#6d4bc4" stroke-width="1.2"/>
+  <text x="450" y="33" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#c4b5fd">markshep.ru</text>
+</svg>
